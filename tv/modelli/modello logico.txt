@@ -1,0 +1,40 @@
+Tv {
+
+	bool state = false;
+	int channel = 0;
+	int volume = 0;
+	int[,] resolution = { { }, { } };
+	string model = " ";
+
+	void tv_on () { 
+
+		state = true;
+	}
+
+	void tv_off () {
+
+		state = false;
+	}
+
+	vol_up () {
+		
+		volume += 1;
+	}
+
+	vol_down () {
+		
+		volume -= 1;
+	}
+
+
+	netxChan () {
+
+		channel += 1;
+	}
+
+	prevChan () {
+
+		channel -= 1;
+	}
+
+}

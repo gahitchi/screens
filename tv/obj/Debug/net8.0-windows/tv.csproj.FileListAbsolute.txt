@@ -1,0 +1,17 @@
+C:\Users\gahia\source\repos\tv\bin\Debug\net8.0-windows\tv.exe
+C:\Users\gahia\source\repos\tv\bin\Debug\net8.0-windows\tv.deps.json
+C:\Users\gahia\source\repos\tv\bin\Debug\net8.0-windows\tv.runtimeconfig.json
+C:\Users\gahia\source\repos\tv\bin\Debug\net8.0-windows\tv.dll
+C:\Users\gahia\source\repos\tv\bin\Debug\net8.0-windows\tv.pdb
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.Form1.resources
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.Properties.Resources.resources
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.csproj.GenerateResource.cache
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.AssemblyInfoInputs.cache
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.AssemblyInfo.cs
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.csproj.CoreCompileInputs.cache
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.dll
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\refint\tv.dll
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.pdb
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\tv.genruntimeconfig.cache
+C:\Users\gahia\source\repos\tv\obj\Debug\net8.0-windows\ref\tv.dll
